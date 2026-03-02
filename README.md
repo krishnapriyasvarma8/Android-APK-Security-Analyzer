@@ -13,8 +13,7 @@ This project is inspired by tools like QARK and MobSF and is intended for educat
 - Debuggable app detection  
 - Exported component checks  
 - Dangerous permission detection  
-- Weak cryptography detection (MD5, SHA1, DES, ECB)  
-- SSL/TLS bypass detection  
+- Weak cryptography detection (MD5, SHA1, DES, ECB)   
 - Hardcoded secret detection  
 - WebView security checks  
 - Insecure broadcast and PendingIntent checks  
@@ -30,3 +29,4 @@ Install dependency:
 
 ```bash
 pip install androguard
+
